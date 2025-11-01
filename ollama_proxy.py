@@ -22,19 +22,19 @@ USERS = {
         "password_hash": generate_password_hash("password1"),
         "role": "admin"
     },
-    "Paul": {
+    "name": {
         "password_hash": generate_password_hash("password2"),
         "role": "user"
     },
-    "Greg": {
+    "name": {
         "password_hash": generate_password_hash("password3"),
         "role": "user"
     },
-    "Brandon": {
+    "name": {
         "password_hash": generate_password_hash("password4"),
         "role": "user"
     },
-    "Brent": {
+    "name": {
         "password_hash": generate_password_hash("password5"),
         "role": "user"
     }
