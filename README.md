@@ -1,9 +1,12 @@
 BETA TESTING PHASE
 
 # Ollama Proxy Server
+Running 5 simultaneous sessions with each user selecting LLama3.2:3b local.  
+
+<img width="3223" height="2102" alt="Screenshot from 2025-10-31 18-13-40" src="https://github.com/user-attachments/assets/5df60658-099b-4419-ad00-d5ed8d8551d7" />
 
 A simple web interface and API proxy for interacting with Ollama's local LLM server.
-
+Will run 
 ## Overview
 
 This project provides a Flask-based web server that acts as a proxy between users and a locally running Ollama instance. It offers:
