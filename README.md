@@ -74,9 +74,9 @@ Open a browser and navigate to:
 ```
 http://localhost:8080/
 ```
-Simple and clean user interface
+Simple and clean user interface:
 
-<img width="1158" height="705" alt="image" src="https://github.com/user-attachments/assets/931523ef-3b32-4957-88c6-7ed056e2a05e" />
+<img width="1147" height="868" alt="Screenshot from 2025-10-31 19-10-36" src="https://github.com/user-attachments/assets/e95da3b2-7494-4744-8e77-845179768cb4" />
 
 You will be prompted with a login page. Enter your username and password to access the interface.
 
