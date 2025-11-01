@@ -1,4 +1,4 @@
-# Ollama Proxy Server
+# Lab-vLLM-Server
 
 A simple web interface and API proxy for interacting with Ollama's local LLM server, featuring secure authentication.
 
@@ -24,8 +24,8 @@ This project provides a Flask-based web server that acts as a proxy between user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-proxy.git
-   cd ollama-proxy
+   git clone https://github.com/kylanj7/Local-vLLM-with-Ollama-Models.git
+   cd Lab-vLLM-Server
    ```
 
 2. Install dependencies:
@@ -45,18 +45,18 @@ This project provides a Flask-based web server that acts as a proxy between user
 
 Start the server with default settings (host 0.0.0.0, port 8080):
 ```bash
-python ollama_proxy_secure.py
+python lab_vllm_server.py
 ```
 
 Or with custom settings:
 ```bash
-python ollama_proxy_secure.py --host 127.0.0.1 --port 5000
+python lab_vllm_server.py --host 127.0.0.1 --port 5000
 ```
 
 For production use, set a strong secret key:
 ```bash
 export SECRET_KEY="your-secure-random-string"
-python ollama_proxy_secure.py
+python lab_vllm_server.py
 ```
 
 ### Accessing the web interface
@@ -124,4 +124,8 @@ For production deployment, consider:
 
 ## License
 
-[Specify your license here]
+MIT License - See [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+- [kylanj7](https://github.com/kylanj7)
