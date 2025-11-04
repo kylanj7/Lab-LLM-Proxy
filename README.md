@@ -28,7 +28,7 @@ This project provides a Flask-based web server that acts as a proxy between user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kylanj7/Local-vLLM-with-Ollama-Models.git
+   git clone https://github.com/kylanj7/Lad-LLM-Proxy.git
    cd Local-vLLM-with-Ollama-Models
    ```
 
