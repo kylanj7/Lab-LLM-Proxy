@@ -1,4 +1,4 @@
-# Lab-vLLM-Server
+# Lab-LLM-Proxy
 
 Fast Local GPU inference for 5+ users (under 15 seconds) using the llama3.2:3b model. Server SPECS: 3090ti (24GB VRAM), Epyc 7302 & 128GB DDR4 @ 2666MT/s 1Gb small home network
 
