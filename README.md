@@ -147,7 +147,7 @@ This implementation includes several security improvements:
 Create custom LLM training datasets 
 Gather more data 
 RAG (Retrieval-Augmented Generation) Implementation for reasonalble performance on smaller models (3b parameters)
-smaller models used for CPU inference and multiple user unterations. 
+smaller models used for CPU inference and multiple users. 
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details.
