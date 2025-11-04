@@ -1,7 +1,7 @@
 #!/bin/bash
 # Lab-vLLM-Server Installation Script
 
-echo "Installing Lab-vLLM-Server..."
+echo "Installing Lab-LLM-Server..."
 
 # Create directory structure
 mkdir -p ~/Lab-LLM-Server
