@@ -144,8 +144,8 @@ This implementation includes several security improvements:
 
 ## Future Changes 
 
-Create custom LLM training datasets to specifically fit the Intel lab specifications 
-Gather more data (Intel Confidential)
+Create custom LLM training datasets 
+Gather more data 
 RAG (Retrieval-Augmented Generation) Implementation for reasonalble performance on smaller models (3b parameters)
 smaller models used for CPU inference and multiple user unterations. 
 ## License
