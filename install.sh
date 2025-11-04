@@ -33,10 +33,10 @@ else
     git pull origin main
 fi
 
-echo "Lab-vLLM-Server has been installed to ~/Lab-vLLM-Server/"
+echo "Lab-Server has been installed to ~/Lab-vLLM-Server/"
 echo ""
 echo "To start the server, run:"
-echo "cd ~/Lab-vLLM-Server && python lab_vllm_server.py"
+echo "cd ~/Lab-Server && python lab_vllm_server.py"
 echo ""
 echo "Then visit http://localhost:8080 in your browser."
 echo ""
