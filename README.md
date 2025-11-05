@@ -146,7 +146,7 @@ This implementation includes several security improvements:
 
 Create custom LLM training datasets 
 Gather more data 
-RAG (Retrieval-Augmented Generation) Implementation for reasonalble performance on smaller models (3b parameters)
+RAG (Retrieval-Augmented Generation) Implementation for reasonalble performance on smaller models (1B-4B parameters)
 smaller models used for CPU inference and multiple users. 
 ## License
 
